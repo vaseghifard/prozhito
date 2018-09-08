@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">prozhito</string>
+    <string name="logIn_text">ورود به حساب کاربری</string>
+    <string name="sign_up_text">ثبت نام</string>
+    <string name="explain_about_app_text">در اینجا سفارش دهندگان، پروژه و یا درخواست خود را ارسال کرده و کدنویسان پیشنهاد خود را در مورد انجام آن پروژه ارسال می کنند. سفارش دهنده، بهترین پیشنهاد را انتخاب کرده و پروژه را به کدنویس مربوطه واگذار می کند </string>
+    <string name="Name_family_signUp">نام و نام خانوادگی</string>
+    <string name="phone_edit_text">شماره تماس</string>
+    <string name="password_signUp">رمز عبور</string>
+    <string name="sign_up_and_send_code_text">ثبت نام و ارسال کد تایید</string>
+    <string name="error_name_family_sign_up">نام و نام خانوادگی فارسی تایپ شود</string>
+    <string name="error_phone_sign_up">تلفن همراه خود را وارد نمایید</string>
+    <string name="error_password_sign_up">رمز عبور انتخاب نمایید</string>
+    <string name="error_sign_up">خطا در اتصال به سرور</string>
+    <string name="confirm_code_label">کد تاییدیه</string>
+    <string name="confirm_code_again">ارسال مجدد کد</string>
+    <string name="final_sign_up_button">تکمیل فرایند ثبت نام</string>
+    <string name="explain_code_again">اگر تا 5 دقیقه دیگر پیامکی حاوی کد 6 رقمی از سوی ما دریافت ننمودید از گزینه ی ارسال مجدد استفاده نمایید</string>
+    <string name="error_confirm_code">خطا در اتصال به سرور</string>
+    <string name="forget_pass_text">رمز عبور خود را فراموش کرده اید؟</string>
+    <string name="forget_pass">یادآوری رمز عبور</string>
+    <string name="logIn">ورود به سیستم </string>
+    <string name="error_login">خطا در اتصال به سرور</string>
+    <string name="send_password">ارسال</string>
+    <string name="send_password_with_sms">رمز جدید از طریق پیام کوتاه ارسال شد</string>
+    <string name="hint_edit_text_forgot_pass">0912429xxxx</string>
+</resources>
